@@ -1,0 +1,143 @@
+.nav-container {
+  padding: 0 150px;
+  background-color: #05050ecc;
+}
+
+.nav-container a {
+  color: #fff;
+}
+
+ul.trans {
+  background-color: transparent;
+  color: #fff;
+}
+
+ul.vertical {
+  background-color: #05050ecc;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.title-hero {
+  padding-top: 80px;
+  margin-left: 40px;
+  width: 70%;
+}
+
+.title-hero h1 {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.title-hero a.button{
+  width: 53%;
+  font-weight: bold;
+  display: block;
+  margin-top: 45px;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
+
+section.hero {
+  background-image: url(../img/homepage-hero-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 49% 0;
+  height: 841px;
+  position: relative;
+}
+
+.sub-title-hero {
+  font-size: 14px;
+  color: #fff;
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.hero-logo {
+  text-align: center;
+  margin-right: 26px;
+  margin-left: 26px;
+}
+.hero-logo img{
+  margin: 18px 30px;
+  height: 30px;
+}
+.whassup2 {
+  padding: 80px 40px 40px;
+  color: #5b666d;
+}
+.info-button2 {
+  display: block;
+  margin: 30px auto 0;
+  background-color: #3898EC;
+  color: #fff;
+  border-radius: 5px;
+  width: 36%;
+  padding: 8px 10px;
+}
+.whassup3 {
+  padding: 80px 40px 40px;
+  color: #5b666d;
+  background-color: lightblue;
+}
+.info-button3 {
+  display: block;
+  margin: 30px auto 0;
+  background-color: #3898EC;
+  color: #fff;
+  border-radius: 5px;
+  width: 36%;
+  padding: 8px 10px;
+}
+.whassup {
+  background-color: #00b3a7;
+  padding: 80px 40px 40px;
+  color: #fff;
+}
+
+.main-p {
+  font-size: .7rem;
+  margin-bottom: 40px;
+}
+
+.whassup-header h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 60px;
+}
+
+.whassup-header p {
+  font-weight: bold;
+  margin-top: 30px;
+  line-height: 25px;
+}
+
+.learn-btn {
+  display: block;
+  margin: 30px auto 0;
+  background-color: #fff;
+  color: #000;
+  border-radius: 5px;
+  width: 36%;
+  padding: 8px 10px;
+}
+@media screen and (min-width: 768px){
+
+}
+
+@media screen and (min-width: 501px) and (max-width: 787px){
+  .you {
+    display: none;
+  }
+}
+@media screen and (max-width: 500px){
+  .you {
+    display: none;
+  }
+
+}
